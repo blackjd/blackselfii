@@ -238,7 +238,7 @@ function create_config( )
     "random",
     "font"
     },
-    sudo_users = {170172168},--Sudo users
+    sudo_users = {207014583},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[]],
     help_text_realm = [[]],
